@@ -22,6 +22,7 @@ const routes = [
 ];
 
 export default new VueRouter({
+  base: "/app-personalities/",
   mode: "history",
   routes,
 });
