@@ -1,4 +1,4 @@
 /* eslint-disable prettier/prettier */
 module.exports = {
-  publicPath: process.env.NODE_ENV === "production" ? "/app-personalities/" : "/",
+  publicPath: "/app-personalities/"
 };
